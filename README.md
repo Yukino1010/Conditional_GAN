@@ -13,7 +13,6 @@
 
 <p align="center"><img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final2.png">
 <img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final3.png" /></p>
-<br>
 
 <p align="center">
 <img src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final6.png?raw=true" >
