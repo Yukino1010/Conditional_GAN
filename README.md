@@ -13,7 +13,7 @@ Furthermore, Conditional GAN can not only generate images, because the main idea
 
 ## Result
 
-<p align="center"><img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final2.png">
+<p align="center"><img width="400px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final2.png">
 <img width="400px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final3.png" /></p>
 
 <p align="center">
