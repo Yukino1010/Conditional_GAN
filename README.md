@@ -15,8 +15,8 @@
 <img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final3.png" /></p>
 
 <p align="center">
-<img src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final6.png?raw=true" >
-<img src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final7.png?raw=true">
+<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final6.png?raw=true" >
+<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final7.png?raw=true">
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final8.png?raw=true" >
-<img src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final9.png?raw=true">
+<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final8.png?raw=true" >
+<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final9.png?raw=true">
 </p>
 
 <p align="center">
