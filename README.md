@@ -14,11 +14,11 @@ Furthermore, Conditional GAN can not only generate images, because the main idea
 ## Result
 
 <p align="center"><img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final2.png">
-<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final3.png" /></p>
+<img width="425px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final3.png" /></p>
 
 <p align="center">
-<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final6.png?raw=true" >
-<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final7.png?raw=true">
+<img width="425px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final6.png?raw=true" >
+<img width="425px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final7.png?raw=true">
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@ Furthermore, Conditional GAN can not only generate images, because the main idea
 </p>
 
 <p align="center">
-<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final8.png?raw=true" >
-<img width="450px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final9.png?raw=true">
+<img width="425px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final8.png?raw=true" >
+<img width="425px" src="https://github.com/Yukino1010/Conditional_GAN/blob/master/outputs/final9.png?raw=true">
 </p>
 
 <p align="center">
