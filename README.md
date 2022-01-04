@@ -6,6 +6,10 @@ Conditional GAN is a big breakthrough in the development of GAN. Just like its n
 Furthermore, Conditional GAN can not only generate images, because the main idea of cgan is to control the model's output, similar structure can be implement to sequence generation 、 voice generation and even generate a video.
 ## Network Structure
 
+![image](https://github.com/Yukino1010/Conditional_GAN/blob/master/resNet.png)
+
+In this implementation, I replace CNN with residual structure (the left part of the picture) in order to build a deeper network, <br>
+and using WGAN-GP to make the training more stable.
 
 ## Hyperparameters
 
