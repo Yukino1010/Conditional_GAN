@@ -43,3 +43,4 @@ and using WGAN-GP to make the training more stable.
 
 1. ***cWGANs*** [https://github.com/cameronfabbri/cWGANs]
 2. ***Generative Adversarial Network based on Resnet for Conditional Image Restoration*** [[arxiv](https://arxiv.org/abs/1707.04881)]
+3. ***resNet*** [https://arxiv.org/pdf/1512.03385.pdf]
