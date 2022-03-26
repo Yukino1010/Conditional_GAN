@@ -3,7 +3,7 @@
 ## Introduce
 Conditional GAN is a big breakthrough in the development of GAN. Just like its name "Conditional", cGAN can generate image under some certain condition, and only need to have some small modify on the input of both generator and discriminator. 
 
-For example, if I want to generate the images of car and bus, I can give the model the label that represent to car and bus, and it  will generate the images I requested according to the conditions.
+For example, if we want to generate the images of car and bus, we can give the model the label that represent to car and bus, and it  will generate the images I requested according to the conditions.
 
 Furthermore, Conditional GAN can not only generate images, because the main idea of cgan is to control the model's output, similar structure can be implement to sequence generation 、 voice generation and even generate a video.
 
